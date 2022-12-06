@@ -1,1 +1,7 @@
-
+body {
+    background-color: #E5E1E6;
+    text-align: center;
+}
+p {
+    size: 200%;
+}
